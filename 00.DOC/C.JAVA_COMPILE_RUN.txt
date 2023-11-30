@@ -1,0 +1,16 @@
+자바소스파일작성 HelloWorld.java
+
+윈도우검색창 --> cmd 입력--> enter key
+
+Microsoft Windows [Version 10.0.19042.985]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\TEA>cd C:\2021-11-JAVA-DEVELOPER\javaSource
+
+C:\2021-11-JAVA-DEVELOPER\javaSource>javac HelloWorld.java
+
+C:\2021-11-JAVA-DEVELOPER\javaSource>java HelloWorld
+안녕자바!!!!!
+
+
+
