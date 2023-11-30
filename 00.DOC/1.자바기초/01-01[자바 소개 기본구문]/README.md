@@ -11,19 +11,21 @@
 ## 객체지향 프로그래밍 (Object Oriented Programming) 언어이다
  
 + 자바의 역사 : 
-	1991년 Sun Microsystems의 James Gosling에 의해 다양한 가전제품 통합 제어를 위해 최
+	* 1991년 Sun Microsystems의 James Gosling에 의해 다양한 가전제품 통합 제어를 위해 최
 초 고안됨(Green Project) – OAK라 명명, 프로젝트 실패
-    1995년 인터넷의 급격한 발전과 더불어 웹에 적용할 수 있는 언어로 탈바꿈
+    * 1995년 인터넷의 급격한 발전과 더불어 웹에 적용할 수 있는 언어로 탈바꿈
 1995년 5월 23일 Java라는 이름으로 공식 발표 – Java 1.0
 개발환경 지원 – JDK 1.0(Java Development Kit)
 지원 클래스 : 약 250개
-    2015년 Java 8
+
+    * 2015년 Java 8
 	
-	2020년 Java 15
+	* 2020년 Java 15
 
 
 + C++ 기반으로 만들어진 언어이긴 하지만, C++처럼 복잡한 형태가 아닌 단순하면
 서도 객체지향 개념을 완벽하게 구현할 수 있는 형태로 구성됨
+
   * 구조체(Struct), 공용체(Union), 포인터(Pointer)를 지원하지 않음
   
   * Garbage Collection 기능을 통한 메모리 자동 관리 등
