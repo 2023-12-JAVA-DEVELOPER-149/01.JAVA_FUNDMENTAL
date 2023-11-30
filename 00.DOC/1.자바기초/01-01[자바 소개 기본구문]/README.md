@@ -57,9 +57,10 @@
 	* 웹 서버로부터 동적 다운로드
 
 # 04. 자바(Java) 플랫폼 종류
-    * Java SE(Java Platform - Standard Edition)
-	
-        + Desktop이나 Server에서 Java Application/Applet등을 개발, 배치, 실행 할 수 있는 환경을 제공(Software Platform)
+
+* Java SE(Java Platform - Standard Edition)
+        
+		+ Desktop이나 Server에서 Java Application/Applet등을 개발, 배치, 실행 할 수 있는 환경을 제공(Software Platform)
 		
         + Java SE Development Kit 다운로드 및 설치 필요
 		
