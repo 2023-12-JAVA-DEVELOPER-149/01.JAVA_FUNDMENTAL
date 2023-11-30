@@ -41,6 +41,33 @@
 + 바이트 코드는 JVM(Java Virtual Machine:자바 실행환경)만 있으면 어떠한 시스템에 서도 이를 해석하여 실행 가능
 +  “Write Once, Use Anywhere!”
 
+# 03. 자바(Java) 프로그램 종류
+
++ 데스크톱 Application(Swing)
+	* 워드프로세스, 메신저 등과 같이 개인용 PC에서 독립적으로 실행되어 특정한 기능을 수행하도록 작성된 프로그램(CUI/GUI)
+
++ 웹서버 Application (Servlet/JSP)
+	* 웹 클라이언트의 HTTP 요청에 대해 HTML/XML 문서를 동적 생성하고 응답하기 위해 웹 어플리케이션서버에서 실행되는 프로그램
+	
++ 스마트폰 Application(안드로이드)
+	* 핸드폰 등에 내장되어 실행되는 작은 프로그램
+
++ 애플릿(Applet)
+	* 웹 클라이언트(익스플로러, 파이어폭스 등) 내장되어 실행되는 작은 웹 프로그램
+	* 웹 서버로부터 동적 다운로드
+
+# 04. 자바(Java) 플랫폼 종류
+	* Java SE(Java Platform - Standard Edition)
+		+ Desktop이나 Server에서 Java Application/Applet등을 개발, 배치, 실행 할 수 있는 환경을 제공(Software Platform)
+		+ Java SE Development Kit 다운로드 및 설치 필요
+		+  https://www.oracle.com/kr/java/technologies/downloads/
+		+ Compiler, Interpreter, 표준 API 등 제공
+	* Java EE(Java Platform - Enterprise Edition)
+		+ Java SE를 기반으로 대규모 기업용 서버를 구축하고, 실행 할 수 있는 환경을 제공
+		+ Java EE SDK 다운로드 및 설치 필요
+		+ https://www.oracle.com/java/technologies/javaee-8-sdk-downloads.html
+		+ Web Application Server(GlassFish)와 Servlet, JSP, JDBC, DataSource, JPA, JTA, JNDI, RMI, EJB, JMS 등 다수의 API 제공
+ 	
 
 ## IT용어
 
