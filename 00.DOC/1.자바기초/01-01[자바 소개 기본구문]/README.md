@@ -65,11 +65,10 @@
 	* Compiler, Interpreter, 표준 API 등 제공
 		
 + Java EE(Java Platform - Enterprise Edition)
-	
-        * Java SE를 기반으로 대규모 기업용 서버를 구축하고, 실행 할 수 있는 환경을 제공
-		* Java EE SDK 다운로드 및 설치 필요
-        * https://www.oracle.com/java/technologies/javaee-8-sdk-downloads.html
-	    * Web Application Server(GlassFish)와 Servlet, JSP, JDBC, DataSource, JPA, JTA, JNDI, RMI, EJB, JMS 등 다수의 API 제공
+	* Java SE를 기반으로 대규모 기업용 서버를 구축하고, 실행 할 수 있는 환경을 제공
+	* Java EE SDK 다운로드 및 설치 필요
+    * https://www.oracle.com/java/technologies/javaee-8-sdk-downloads.html
+	* Web Application Server(GlassFish)와 Servlet, JSP, JDBC, DataSource, JPA, JTA, JNDI, RMI, EJB, JMS 등 다수의 API 제공
  	
 
 ## IT용어
