@@ -21,8 +21,8 @@
 
 
 
-# 크롬부라우져설치
-https://www.google.com/chrome/
+* 크롬부라우져설치
+  + https://www.google.com/chrome/
  
 
 # D2코딩체다운설치
