@@ -22,14 +22,14 @@
 
 
 * 크롬부라우져설치
-  + https://www.google.com/chrome/
+  * https://www.google.com/chrome/
  
 
 * D2코딩체다운설치
-https://github.com/naver/d2codingfont/releases
+  * https://github.com/naver/d2codingfont/releases
 
 * NotePad++ 다운설치
-https://notepad-plus-plus.org/downloads/
+  *https://notepad-plus-plus.org/downloads/
 
 
 * JDK
@@ -37,7 +37,7 @@ https://notepad-plus-plus.org/downloads/
   * https://www.oracle.com/java/technologies/downloads/#java8-windows
 
 * 이클립스
- * https://www.eclipse.org/downloads/packages/release
+  * https://www.eclipse.org/downloads/packages/release
 
 
  * 이클립스 플러그인
