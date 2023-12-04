@@ -25,47 +25,46 @@
   + https://www.google.com/chrome/
  
 
-# D2코딩체다운설치
+* D2코딩체다운설치
 https://github.com/naver/d2codingfont/releases
 
-# NotePad++ 다운설치
+* NotePad++ 다운설치
 https://notepad-plus-plus.org/downloads/
 
 
-# JDK
+* JDK
 
 http://www.oracle.com/index.html
 
 https://www.oracle.com/java/technologies/downloads/#java8-windows
 
-## 이클립스
+* 이클립스
 
-https://www.eclipse.org/downloads/packages/release
+ * https://www.eclipse.org/downloads/packages/release
 
 
-## 이클립스 플러그인
+ * 이클립스 플러그인
  
- * window builder
-   * https://github.com/eclipse-windowbuilder/windowbuilder
-   * http://download.eclipse.org/windowbuilder/latest/
+   * window builder
+     * https://github.com/eclipse-windowbuilder/windowbuilder
+     * http://download.eclipse.org/windowbuilder/latest/
 
- * properties editor
-   * http://propedit.sourceforge.jp/eclipse/updates/
+   * properties editor
+     * http://propedit.sourceforge.jp/eclipse/updates/
  
- * UML,ERD
-   * http://takezoe.github.io/amateras-update-site/
-   * https://github.com/takezoe/amateras-modeler
-	
-    + <b><< eclipse.ini 파일의 마지막에 추가>></b>
-    ```
-     --add-opens=java.desktop/java.beans=ALL-UNNAMED
-    ```
+   * UML,ERD
+     * http://takezoe.github.io/amateras-update-site/
+     * https://github.com/takezoe/amateras-modeler
+       * <b><< eclipse.ini 파일의 마지막에 추가>></b>
+      ```
+       --add-opens=java.desktop/java.beans=ALL-UNNAMED
+      ```
 
- # java5 api doc 한글API
+ * java5 api doc 한글API
    * http://cris.joongbu.ac.kr/course/java/api/index.html?overview-tree.html
 
- # jdk8  api doc
+ * jdk8  api doc
    * http://docs.oracle.com/javase/8/docs/api/index.html     
 
-## jdk16 api doc
+ * jdk16 api doc
    * https://docs.oracle.com/en/java/javase/16/docs/api/index.html 
