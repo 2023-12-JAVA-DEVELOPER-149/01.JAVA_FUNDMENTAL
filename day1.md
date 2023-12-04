@@ -1,9 +1,9 @@
 ## intro
 
- # 강사(김경호)메일주소
+* 강사(김경호)메일주소
    * guard884@gmail.com
 
-# todo
+* todo
    * github가입
    * chrome 다운로드
    * font D2코딩체
