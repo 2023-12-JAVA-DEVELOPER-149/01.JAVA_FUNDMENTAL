@@ -4,7 +4,7 @@
 
  * workspace 설정
  
-   ![workspaceSE](./img/workspace.png)
+   ![자바프로그램기본구조1](./imgage/자바프로그램기본구조1.png)
 
  * 프로젝트 만들기와 화면의 구성
 
