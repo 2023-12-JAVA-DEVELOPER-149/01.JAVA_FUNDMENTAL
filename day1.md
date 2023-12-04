@@ -45,14 +45,14 @@ https://www.eclipse.org/downloads/packages/release
 
 ## 이클립스 플러그인
  
- # window builder
+ * window builder
    * https://github.com/eclipse-windowbuilder/windowbuilder
    * http://download.eclipse.org/windowbuilder/latest/
 
- # properties editor
+ * properties editor
    * http://propedit.sourceforge.jp/eclipse/updates/
  
- # UML,ERD
+ * UML,ERD
    * http://takezoe.github.io/amateras-update-site/
    * https://github.com/takezoe/amateras-modeler
 	
