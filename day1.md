@@ -1,6 +1,6 @@
 ## intro
 
-# 강사(김경호)메일주소
+ # 강사(김경호)메일주소
    * guard884@gmail.com
 
 # todo
