@@ -17,7 +17,7 @@
   * 개발툴
   * GITHUB아이디 
 
-# GITHUB 
+* GITHUB 가입 
 
 
 
