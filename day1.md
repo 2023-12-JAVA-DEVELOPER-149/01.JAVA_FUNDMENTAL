@@ -33,13 +33,10 @@ https://notepad-plus-plus.org/downloads/
 
 
 * JDK
-
-http://www.oracle.com/index.html
-
-https://www.oracle.com/java/technologies/downloads/#java8-windows
+  * http://www.oracle.com/index.html
+  * https://www.oracle.com/java/technologies/downloads/#java8-windows
 
 * 이클립스
-
  * https://www.eclipse.org/downloads/packages/release
 
 
