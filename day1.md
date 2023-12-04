@@ -26,10 +26,10 @@
  
 
 * D2코딩체다운설치
-  * https://github.com/naver/d2codingfont/releases
+   * https://github.com/naver/d2codingfont/releases
 
 * NotePad++ 다운설치
-  *https://notepad-plus-plus.org/downloads/
+   * https://notepad-plus-plus.org/downloads/
 
 
 * JDK
