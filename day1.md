@@ -14,6 +14,7 @@
 
 * 문서공유
   * 문서
+    + [구글드라이브](https://drive.google.com/drive/folders/1bTqyPV9LQt8vly7V_bixG2kpu6THkB7w?usp=sharing)
   * 개발툴
   * GITHUB아이디 
 
