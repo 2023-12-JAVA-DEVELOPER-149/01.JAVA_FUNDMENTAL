@@ -21,7 +21,7 @@
   * GITHUB아이디 
 
 * GITHUB 가입 
-
+   + [GITHUB 가입](https://docs.google.com/document/d/1_Gb8dwQX6gxToSQ_ehPVc3GzlLSa8_-jz_xxfWlAnS4/edit?usp=sharing)
 
 
 * 크롬부라우져설치
