@@ -19,7 +19,7 @@
     + [프로그램](https://drive.google.com/drive/folders/1ZKorZjj1WoJybMocCmomdpRW3Fhy7g8D?usp=sharing)
   
   * GITHUB아이디
-    +[GITHUB아이디](https://docs.google.com/spreadsheets/d/12CtD8kfUAPEzuMrKnuuY7dXbSTz2O5NxcCaWqn2xk0I/edit#gid=0)
+    + [GITHUB아이디](https://docs.google.com/spreadsheets/d/12CtD8kfUAPEzuMrKnuuY7dXbSTz2O5NxcCaWqn2xk0I/edit#gid=0)
 
 * GITHUB 가입 
    + [GITHUB 가입](https://docs.google.com/document/d/1_Gb8dwQX6gxToSQ_ehPVc3GzlLSa8_-jz_xxfWlAnS4/edit?usp=sharing)
