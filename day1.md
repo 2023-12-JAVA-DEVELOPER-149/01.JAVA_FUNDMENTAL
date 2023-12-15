@@ -60,7 +60,7 @@
       ```
        --add-opens=java.desktop/java.beans=ALL-UNNAMED
       ```
-      <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/023847e5-b419-4c91-93a5-369bf9dea354' width='70%' height='40%'/>
+      <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/023847e5-b419-4c91-93a5-369bf9dea354' width='50%' height='30%'/>
       
       ![image](https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/023847e5-b419-4c91-93a5-369bf9dea354)
 
