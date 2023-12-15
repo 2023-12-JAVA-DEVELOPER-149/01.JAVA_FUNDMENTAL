@@ -83,6 +83,8 @@
 
      ![image](https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/bdf3aced-0ad8-47e1-9e31-dd624b5afc48)
 
+    - 이클립스 재시작(restart)
+
 
  * java5 api doc 한글API
    * http://cris.joongbu.ac.kr/course/java/api/index.html?overview-tree.html
