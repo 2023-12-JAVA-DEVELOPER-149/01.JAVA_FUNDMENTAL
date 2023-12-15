@@ -64,10 +64,10 @@
       - 이클립스메뉴 Install New Softwear메뉴클릭
         <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/023847e5-b419-4c91-93a5-369bf9dea354' width='80%' height='50%'/>
 
-- Add버튼 클릭
+      - Add버튼 클릭
 <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/1bf3afb6-570f-4619-916c-d6b0497359da' width='80%' height='50%'/>
 
-- 이클립스 UML 플러그인설치
+      - 이클립스 UML 플러그인설치
 <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/18778aa0-0f8a-42ea-8a68-4569bb0720f1' width='70%' height='20%'/>
 
 - 이클립스 UML 플러그인설치
