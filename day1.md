@@ -95,15 +95,18 @@
 
         <img src=' https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/e425572d-a847-4f23-a824-0a8f6bbf15a4' width='70%' height='20%'/>
       
-      - eclipse.ini 파일열기
-        
+      - eclipse.ini 파일 찾기
+             
        <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/849f75f3-e840-4ea5-8a5b-7333c5216206' width='70%' height='20%'/>
 
-      - eclipse.ini 맨마지막에 추가( --add-opens=java.desktop/java.beans=ALL-UNNAMED )
+      - eclipse.ini 파일열기
         
         <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/cc65adb1-b00e-42c7-bcb5-3b4cacf1b5fe' width='70%' height='20%'/> 
 
-      - 이클립스 UML 플러그인설치
+      - eclipse.ini 맨마지막에 다음구문 추가
+        ```
+         --add-opens=java.desktop/java.beans=ALL-UNNAMED
+        ```
         
         <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/bdf3aced-0ad8-47e1-9e31-dd624b5afc48' width='70%' height='20%'/>
       
