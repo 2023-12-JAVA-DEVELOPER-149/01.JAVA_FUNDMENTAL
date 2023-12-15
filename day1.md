@@ -71,11 +71,11 @@
         
         <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/1bf3afb6-570f-4619-916c-d6b0497359da' width='80%' height='50%'/>
 
-      - 이클립스 UML 플러그인설치
+      - Add Repository
         
         <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/18778aa0-0f8a-42ea-8a68-4569bb0720f1' width='70%' height='20%'/>
 
-      - 이클립스 UML 플러그인설치
+      - Amateras Modeler선택후 클
 
         <img src='https://github.com/2023-12-JAVA-DEVELOPER-149/01.JAVA_FUNDMENTAL/assets/75401545/4172926f-3588-4bd9-8a85-f7466d99fe64' width='70%' height='20%'/>
 
