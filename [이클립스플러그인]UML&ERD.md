@@ -1,7 +1,7 @@
- ### UML,ERD
-   * http://takezoe.github.io/amateras-update-site/
-   * https://github.com/takezoe/amateras-modeler
-   * <b><< eclipse.ini 파일의 마지막에 추가>></b>
+ ## UML,ERD 이클립스플러그인설치
+   ### http://takezoe.github.io/amateras-update-site/
+   ### https://github.com/takezoe/amateras-modeler
+   ### <b><< eclipse.ini 파일의 마지막에 추가>></b>
       ```
        --add-opens=java.desktop/java.beans=ALL-UNNAMED
       ```
