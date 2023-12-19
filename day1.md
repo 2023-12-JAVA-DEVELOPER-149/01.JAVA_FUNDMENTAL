@@ -122,3 +122,8 @@
 
  * jdk16 api doc
    * https://docs.oracle.com/en/java/javase/16/docs/api/index.html 
+
+
+
+ * 자바문서생성시인코딩설정
+  + -locale ko_KR -encoding UTF-8 -charset UTF-8 -docencoding UTF-8
