@@ -126,4 +126,4 @@
 
 
  * 자바문서생성시인코딩설정
-  + -locale ko_KR -encoding UTF-8 -charset UTF-8 -docencoding UTF-8
+   >-locale ko_KR -encoding UTF-8 -charset UTF-8 -docencoding UTF-8
